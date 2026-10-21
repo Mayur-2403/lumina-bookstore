@@ -1,0 +1,19 @@
+{
+  "name": "lumina-bookstore",
+  "version": "1.0.0",
+  "description": "NoSQL College Project - Online Book Store with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
